@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698481326870",
+    "project_id": "almysautos",
+    "storage_bucket": "almysautos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698481326870:android:d0d3b7dd8e928d5355ee37",
+        "android_client_info": {
+          "package_name": "com.almysautos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxv-rzFcRzgZhwiVhTGJJqb_9sKbzGhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
